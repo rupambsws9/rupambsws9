@@ -17,7 +17,11 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Rupam+Biswas..;Welcome+To+My+GitHub..;Nice+To+Meet+You+....&center=true"></a></p>
     
 # 🖥️ Technical Skills: 
+ 
 <p align="left">
+    <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+</a>
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
